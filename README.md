@@ -2,5 +2,5 @@
 
 Hey there 👋, I am just a developer.
 
-### Java, Typescript Developer
-#### Working with Angular, NestJS and other JS/TS Frameworks
+### Java, Kotlin, Rust and Typescript Developer
+#### Working with Angular, Spring Boot @ Kotlin and other Frameworks
